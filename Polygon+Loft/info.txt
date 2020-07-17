@@ -1,0 +1,1 @@
+this diagram uses series to generate diagrams, and those genreted diagrams creats a surface with loft
