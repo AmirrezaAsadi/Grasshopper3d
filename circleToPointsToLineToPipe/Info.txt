@@ -1,0 +1,5 @@
+The Diagram creates four Circles with modifable offset
+Then it create points from circles
+It multiply x for one circle.
+then it creats lines
+then it create pipes from lines with modifable radius
